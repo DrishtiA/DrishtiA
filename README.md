@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Drishti Agarwal</h1>
 <h3 align="center">Passionate EEE student with a drive for innovation and a knack for programming</h3>
-<img align="right" alt="coding" width="400" src="[https://images.app.goo.gl/P5DnK9a9LosxZted7](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)">
 - 📫 How to reach me **drishtiagarwal001@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
