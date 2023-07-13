@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/DrishtiA/DrishtiA/blob/63938c70c5b398512fefc8be6325be4c4e3dbd38/readme.gif">
+</p>
+
 <h1 align="center">Hi 👋, I'm Drishti Agarwal</h1>
 <h3 align="center">Passionate EEE student with a drive for innovation and a knack for programming</h3>
 - 📫 How to reach me **drishtiagarwal001@gmail.com**
